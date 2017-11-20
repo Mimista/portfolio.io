@@ -5,3 +5,9 @@ body {
   font-size: 62.5%;
   color: #444;
 }
+
+#head {
+
+	height: 50%;
+	width: 100%;
+	background-image: url("kuvat/view?usp=sharing")
